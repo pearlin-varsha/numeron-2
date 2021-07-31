@@ -7,7 +7,7 @@
 }
 
 .game-cover {
-    background: url("https://res.cloudinary.com/dkd5jyhic/image/upload/v1601143553/Assets-Numeron/numeron-bg_mm5r8c.png") no-repeat;
+    background: url("http://i1.faceprep.in/prograd-junior/numeron-bg.png") no-repeat;
     background-size: cover;
 }
 
@@ -25,7 +25,7 @@ body {
 }
 
 .game {
-    background: url("https://res.cloudinary.com/dkd5jyhic/image/upload/v1601143552/Assets-Numeron/game-inside-bg_a3mgvz.png") no-repeat;
+    background: url("http://i1.faceprep.in/prograd-junior/game-inside-bg.png") no-repeat;
     background-size: cover;
 }
 
